@@ -30,7 +30,7 @@ body {
     transition: all 0.3s linear;
 }
 .hero {
-  background-image: url("../assets/img/banner.jpg");
+  background-image: url("./assets/img/banner.jpg");
   height: 500px;
   background-position: center;
   background-repeat: no-repeat;
