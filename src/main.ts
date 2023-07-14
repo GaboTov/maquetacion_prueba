@@ -11,3 +11,5 @@ const collapse = (idContent:string, idBtn:string)=> {
         btn.textContent = '-'
     }
 }
+
+
